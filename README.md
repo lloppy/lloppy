@@ -1,8 +1,8 @@
 [![Header](https://github.com/lloppy/lloppy/blob/main/assets/iam.png)](https://vk.com/ankudinovazaecologiy)
 
-## I am Russian Android developer 😎 Digital Nomad. I love play ukulele and piano, different music, large bags, lipsticks and my grandma❤
+## I am a Russian Android developer 😎 Digital Nomad. I love play ukulele and piano, different music, large bags, lipsticks and my grandma❤
 
-Lastes articles
+
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-21262D?style=for-the-badge&logo=kotlin&logoColor=47A6FF)
