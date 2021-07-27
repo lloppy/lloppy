@@ -1,4 +1,4 @@
-[![Header](https://github.com/lloppy/lloppy/blob/main/assets/iam.jpg)](https://vk.com/ankudinovazaecologiy)
+[![Header](https://github.com/lloppy/lloppy/blob/main/assets/iam.png)](https://vk.com/ankudinovazaecologiy)
 
 About me
 
