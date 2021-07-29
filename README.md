@@ -2,6 +2,9 @@
 
 ## I am a Russian Android developer 😎 Digital Nomad. I love play ukulele and piano, listen different music, large bags, lipsticks and my grandma❤
 
+### Blog. Lastes posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Languages and Tools
