@@ -18,7 +18,7 @@
 
 ### Follow Me
 [![Вконтакте](https://img.shields.io/badge/Вконтакте-21262D?style=for-the-badge&logo=Vk&logoColor=47A6FF)](https://vk.com/ankudinovazaecologiy)
-[![Medium](https://img.shields.io/badge/Medium-21262D?style=for-the-badge&logo=Medium)](https://medium.com/@polly124cool)
 [![Telegram](https://img.shields.io/badge/Telegram-21262D?style=for-the-badge&logo=Telegram)](https://t.me/lloppy)
 [![Stepik](https://img.shields.io/badge/Stepik-21262D?style=for-the-badge&logo=appveyor&logoColor=F0F6FC)](https://stepik.org/users/80179052)
+[![Medium](https://img.shields.io/badge/Medium-21262D?style=for-the-badge&logo=Medium)](https://medium.com/@polly124cool)
 [![Leetcode](https://img.shields.io/badge/Leetcode-21262D?style=for-the-badge&logo=Leetcode)](https://leetcode.com/lloppy/)
