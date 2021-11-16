@@ -3,6 +3,14 @@
 ![Profile views](https://gpvc.arturio.dev/lloppy)
 
 <h3 align="left">GitHub Stats</h3>
+<div align="center" style="display: flex;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloppy&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</div>
+
+
+
+
 ## I am a Russian Android developer 😎 DN. I love play ukulele and piano, listen different music, large bags, lipsticks and my grandma❤
 
 ### Blog. Lastes posts
