@@ -4,8 +4,6 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/lloppy)
-
 <h3 align="left">GitHub Stats</h3>
 <div align="center" style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
