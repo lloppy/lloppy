@@ -1,5 +1,9 @@
 [![Header](https://github.com/lloppy/lloppy/blob/main/assets/iam.png)](https://vk.com/ankudinovazaecologiy)
 
+## I am a Russian Android developer 😎 DN. I love play ukulele and piano, listen different music, large bags, lipsticks and my grandma❤
+
+
+
 ![Profile views](https://gpvc.arturio.dev/lloppy)
 
 <h3 align="left">GitHub Stats</h3>
@@ -10,8 +14,6 @@
 
 
 
-
-## I am a Russian Android developer 😎 DN. I love play ukulele and piano, listen different music, large bags, lipsticks and my grandma❤
 
 ### Blog. Lastes posts
 <!-- BLOG-POST-LIST:START -->
