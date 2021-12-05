@@ -1,18 +1,17 @@
 [![Header](https://github.com/lloppy/lloppy/blob/main/assets/iam.png)](https://vk.com/ankudinovazaecologiy)
 
-## I am a Russian Android developer 😎 DN. I love play ukulele and piano, listen different music, large bags, lipsticks and my grandma❤
 
 ```kotlin
-val etolstoy = developer {
+val lloppy = developer {
     about {
-        name = "Egor Tolstoy"
-        company = JetBrains
-        role = Product_Manager
+        name = "Polina Ankudinova"
+        company = None
+        role = Android dev
     }
-    tech("Kotlin", "Objective-C", "KMM", "VIPER")
+    tech("Kotlin", "Java", "Figma")
     links {
-        twitter = "igrekde"
-        website = "etolstoy.com"
+        telegram = "@lloppy"
+        vk = "@ankudinovazaecologiy"
     }
 }
 ```
