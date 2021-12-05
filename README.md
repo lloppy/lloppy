@@ -2,6 +2,20 @@
 
 ## I am a Russian Android developer 😎 DN. I love play ukulele and piano, listen different music, large bags, lipsticks and my grandma❤
 
+```kotlin
+val etolstoy = developer {
+    about {
+        name = "Egor Tolstoy"
+        company = JetBrains
+        role = Product_Manager
+    }
+    tech("Kotlin", "Objective-C", "KMM", "VIPER")
+    links {
+        twitter = "igrekde"
+        website = "etolstoy.com"
+    }
+}
+```
 
 
 <h3 align="left">GitHub Stats</h3>
