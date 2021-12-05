@@ -6,7 +6,7 @@ val lloppy = developer {
     about {
         name = "Polina Ankudinova"
         company = None
-        role = Android dev
+        role = AndroidDev
     }
     tech("Kotlin", "Java", "Figma")
     links {
