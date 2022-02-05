@@ -37,6 +37,7 @@ val lloppy = developer {
 ![Java](https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=java&logoColor=B07219)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-21262D?style=for-the-badge&logo=AndroidStudio&logoColor=A09A9A)
 ![Figma](https://img.shields.io/badge/Figma-21262D?style=for-the-badge&logo=Figma)
+![Firebase](https://img.shields.io/badge/Firebase-21262D?style=for-the-badge&logo=Figma)
 
 
 
