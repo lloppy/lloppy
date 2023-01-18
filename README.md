@@ -20,9 +20,9 @@ val lloppy = developer {
 <h3 align="left">GitHub Stats</h3>
 <div align="center" style="display: flex;">
   <img height="150em" 
-       src="https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true" />
+       src="https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true&theme=omni" />
   <img height="150em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloppy"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloppy&theme=omni"/>
 </div>
 
 
