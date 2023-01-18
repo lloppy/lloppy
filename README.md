@@ -23,6 +23,8 @@ val lloppy = developer {
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloppy&langs_count=10&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </div>
 
+![lloppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true)
+
 
 
 
