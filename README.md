@@ -29,6 +29,7 @@ val lloppy = developer {
 
 
 
+
 ### Blog. Lastes posts
 <!-- BLOG-POST-LIST:START -->
 - [Why IDEA is better than Eclipse](https://medium.com/@polly124cool/why-idea-is-better-than-eclipse-be6dc401fa02?source=rss-cdaabb7f5c------2)
