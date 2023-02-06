@@ -16,8 +16,8 @@ val lloppy = developer {
 }
 ```
 
-![Polly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloppy&layout=compact)](https://github.com/lloppy/github-readme-stats)
+![Polly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloppy&show_icons=true&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloppy&layout=compact&theme=omni)](https://github.com/lloppy/github-readme-stats)
 
 <h3 align="left">GitHub Stats</h3>
 <div align="center" style="display: flex;">
